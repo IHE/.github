@@ -6,7 +6,7 @@ IHE is an initiative by healthcare professionals and industry to improve the way
 
 IHE is an open organization willing to take input from all. However to participate in content creation and formal discussions one must be a member organization.
 
-[Become an IHE member organizatino](https://www.ihe.net/Participate/) and improve the interoperability of healthcare information systems.
+[Become an IHE member organization](https://www.ihe.net/Participate/) and improve the interoperability of healthcare information systems.
 
 ## Repository Organization 👩‍
 
@@ -15,7 +15,7 @@ The [IHE](https://www.ihe.net) products managed in GitHub are managed within thi
 The products managed here are published on the [https://profiles.ihe.net](https://profiles.ihe.net).
 
 ### Committee repos
-* all - FHIR -- http://github.com/IHE/FHIR
+* all - FHIR artifacts not in a formal IG -- http://github.com/IHE/FHIR
 * all - publications -- http://github.com/IHE/publications -- staging and tracking of all html publications to profiles.ihe.net
 * ITI - http://github.com/IHE/IT-Infrastructure
 * PCC - http://github.com/IHE/PCC
@@ -43,8 +43,6 @@ The products managed here are published on the [https://profiles.ihe.net](https:
 * ITI - [Metadata Handbook](http://github.com/IHE/IHE-MetadataHandbook)
 * ITI - [mCSD Whitepaper](http://github.com/IHE/mCSD-Whitepaper)
 * PCC - [Web Front Doors](http://github.com/IHE/PCC-web)
-* RAD - now have entry on profiles.ihe.net
-* DEV - now have entry on profiles.ihe.net
 * ITI - [SeR](https://github.com/IHE/ITI.SeR)
 
 ### Formal projects developing IG
@@ -59,10 +57,8 @@ The products managed here are published on the [https://profiles.ihe.net](https:
 * RO - XRTS-- https://github.com/IHE/RO.XRTS -- Martin von Siebenthal
 * PaLM - RPC -- https://github.com/IHE/PaLM.RPC -- Alexander Goel
 * ITI - Scheduling -- https://github.com/IHE/ITI.Scheduling -- Vassil Peytchev
+* ITI - WTF -- https://github.com/IHE/ITI.WTF 
 * Connectathon - Test.Asbestos -- https://github.com/IHE/Test.Asbestos -- Sunil
-
-### Joint IHE and HL7 projects
-* PCC / HL7 -- SANER -- https://github.com/HL7/fhir-saner -- Keith Boone
 
 ### unknown
 * Pharm - vaccine -- https://github.com/IHE/pharm-vaccination -- Jose Costa Teixeira
@@ -81,7 +77,6 @@ The products managed here are published on the [https://profiles.ihe.net](https:
 * ITI - ITI-Info -- http://github.com/IHE/ITI-Info
 * DEV - sdpi-fhir -- https://github.com/IHE/sdpi-fhir -- Todd Cooper
 * QRPH - ADX.COVID -- http://github.com/IHE/QRPH.ADX.COVID19 -- unknown?
-* ITI - WTF -- https://github.com/IHE/ITI.WTF -- Joe Lamy
 
 ### Pattern repos
 * IG Builder supplement template - https://github.com/IHE/supplement-template -- John Moehrke
