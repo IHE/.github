@@ -10,4 +10,4 @@ IHE is an open organization willing to take input from all. However to participa
 
 The [IHE](https://www.ihe.net) products managed in GitHub are managed within this domain. 
 The products managed here are published on the [https://profiles.ihe.net](https://profiles.ihe.net).
-[All IHE projects in GitHub](https://github.com/IHE/supplement-template/wiki/Active-IHE-projects-using-the-IG-builder)
+A summary listing of [all IHE projects in GitHub](https://github.com/IHE/supplement-template/wiki/Active-IHE-projects-using-the-IG-builder)
