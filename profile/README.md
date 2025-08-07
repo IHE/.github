@@ -4,7 +4,7 @@
 
 ## Contribution guidelines 🌈
 
-IHE is an open organization willing to take input from all. However, to [participate in content creation and formal discussions](https://www.ihe.net/about_ihe/governance/) one must be a member organization. [Become an IHE member organization](https://www.ihe.net/Participate/) and improve the interoperability of healthcare information systems.
+IHE is an open organization that welcomes input from all. However, to [participate in content creation and formal discussions](https://www.ihe.net/about_ihe/governance/), one must be a member organization. [Become an IHE member organization](https://www.ihe.net/Participate/) and improve the interoperability of healthcare information systems.
 
 ## Repository Organization 👩‍
 
