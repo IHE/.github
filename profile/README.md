@@ -9,8 +9,8 @@ IHE is an open organization that welcomes input from all. However, to [participa
 ## Repository Organization 👩‍
 
 The [IHE](https://www.ihe.net) products managed in GitHub are managed within this domain.
-The products managed here are published on the [https://profiles.ihe.net](https://profiles.ihe.net).
-A summary listing of [all IHE projects in GitHub](https://github.com/IHE/supplement-template/wiki/Active-IHE-projects-using-the-IG-builder). Participating repositories by domains: 
+The products managed here are published on [https://profiles.ihe.net](https://profiles.ihe.net).
+A summary listing of [all IHE projects in GitHub is here](https://github.com/IHE/supplement-template/wiki/Active-IHE-projects-using-the-IG-builder). Participating repositories by domains: 
 [Devices](https://github.com/search?q=topic%3Aihe-devices+org%3AIHE&type=repositories),
 [ITI](https://github.com/search?q=topic%3Aiti+org%3AIHE&type=repositories), 
 [RAD](https://github.com/search?q=topic%3Aihe-rad+org%3AIHE&type=repositories), 
